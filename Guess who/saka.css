@@ -1,0 +1,9 @@
+body{ background-color: rgb(74, 131, 131);
+    font-family: fantasy;
+}
+p{ 
+    font-size: 32px;
+}
+h1{
+    font-style:inherit;
+}
